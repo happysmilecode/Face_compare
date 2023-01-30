@@ -3,7 +3,9 @@ PyQtWebEngine
 opencv-python
 insightface
 onnxruntime
-# cuda-python
-# onnxruntime-gpu
-# torch
-# numba
+cuda-python
+onnxruntime-gpu
+torch
+numba
+numpy
+tensorflow

@@ -1,0 +1,9 @@
+PyQt5
+PyQtWebEngine
+opencv-python
+insightface
+onnxruntime
+# cuda-python
+# onnxruntime-gpu
+# torch
+# numba
